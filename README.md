@@ -26,3 +26,7 @@ ShadowsocksR for Windows
 GPLv3
 
 Copyright © Naruse 2020. Forked from ShadowsocksR by BreakWa11
+
+### 小白的问题在这里统一回复(看图)
+
+![image](https://github.com/Naruse-developer/SSRR-Windows/blob/master/.github/hailuo.jpg)
